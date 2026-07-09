@@ -20,16 +20,10 @@ A API foi construída com **Node.js**, **Express**, **TypeScript**, **Zod** e o 
 
 ## 📦 Instalação e dependências
 
-Instale todas as dependências de produção:
+Instale todas as dependências:
 
 ```bash
-npm install express cors openai zod
-```
-
-Instale as dependências de desenvolvimento:
-
-```bash
-npm install -D typescript tsx @types/node @types/express @types/cors
+npm install
 ```
 
 ---
